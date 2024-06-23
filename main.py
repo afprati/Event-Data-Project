@@ -56,8 +56,8 @@ Types of events that most likely are NOT violent: Accidents; Peaceful protests/m
 #Load-Date: November 3, 2004"""
 
 
-batch_data = pd.read_csv("data/df_2003on13.csv")
-batch_num = 13
+batch_data = pd.read_csv("data/df_20021.csv")
+batch_num = 1
 
 
 results_dir = 'C:\\Users\\miame\\OneDrive\\Backups\\Documents\\GitHub\\Event-Data-Project\\results\\'
